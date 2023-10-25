@@ -41,19 +41,19 @@ The intern needs to develop some incomplete features/capabilities in this softwa
 4. AWS
 5. Sublime Text Editor
 
-** Software Modules: **
-1.** Dashboard**
+**Software Modules:**
+**1.Dashboard**
    Total Questions
    Total Active Questions
    Add question
    Add Question paper
    View Question Paper
 
-2. **Question Bank Module**
+**2. Question Bank Module**
     Add question
     Question list
 
-3.** Question Paper Module**
+**3.Question Paper Module**
     1. Create a Question Paper with the below information
         Question paper Name
         Program name 
@@ -70,7 +70,7 @@ The intern needs to develop some incomplete features/capabilities in this softwa
     3. Update Question Paper
     4. View Question Paper
 
-**Project: **
+**Project:**
 Interns will have to refer to the below web application for the project:
 Software link: https://jhamobi.com/assessment/
 Login: admin@jhamobi.com 
