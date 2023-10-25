@@ -43,11 +43,11 @@ The intern needs to develop some incomplete features/capabilities in this softwa
 
 **Software Modules:**
 **1.Dashboard**
-   Total Questions
-   Total Active Questions
-   Add question
-   Add Question paper
-   View Question Paper
+ Total Questions
+ Total Active Questions
+ Add question
+ Add Question paper
+ View Question Paper
 
 **2. Question Bank Module**
     Add question
