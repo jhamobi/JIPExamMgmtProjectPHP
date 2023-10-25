@@ -1,52 +1,120 @@
 Introduction
 ============
 
-![Bower version](https://img.shields.io/bower/v/adminlte.svg)
-[![npm version](https://img.shields.io/npm/v/admin-lte.svg)](https://www.npmjs.com/package/admin-lte)
-[![Packagist](https://img.shields.io/packagist/v/almasaeed2010/adminlte.svg)](https://packagist.org/packages/almasaeed2010/adminlte)
-[![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
+This is the Project Requirement Document (PRD) for JhaMobi Online Internship Program (JOIP)
 
-**AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+Design, development and deployment of JhaMobi Exam Management Software System using Core PHP technology
 
-**Download & Preview on [AdminLTE.IO](https://adminlte.io)**
+**PREPARED BY**
+Swati Belure, Product Manager and Internship Program Coordinator, JhaMobi Technologies Private Limited, Pune, Maharashtra, India.
 
-### Looking for Premium Templates?
-**AdminLTE.IO just opened a new premium templates website. Hand picked to ensure the best quality and the most affordable prices. Visit https://themequarry.com for more information.**
+**Project details:**
+Project Name: Jhamobi Exam Management software system for Education Institutes in PHP technology under internship program.
 
-## Documentation & Installation Guide
-Visit the [online documentation](https://adminlte.io/docs) for the most
-updated guide.
+**Duration: 3 months**
 
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png "AdminLTE Presentation")
+**Project description:**
 
-### Contribution
-Contribution are always **welcome and recommended**! Here is how:
+Many Educational Institutes conduct exams from time to time for student assessment. For this, they need an Assessment System for Education Institutes with all features to reduce the turnaround time to generate Exam question papers. A software that offers intelligent assessment tools that enable colleges and universities to create customized quizzes, tests, and assignments. With these assessment tools, educational institutions can streamline their exam paper preparation processes, saving time and enhancing overall efficiency.
 
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
-- Make your changes
-- Create a pull request
+Institutes need a Web Application to offer a full range of assessment (exam/test) modules for Examiners.
 
-#### Contribution Requirements:
+**Advantages of the Software:**
+ 
+1. Automated question paper preparation process instead of manual which is very tedious and lengthy.
+2. Paperless system
+3. Overcome time-consuming process
+4. Manage the information related to tests
+5. Report generation automation: Manual entering records and retrieving of records causes difficulty in finding errors in records.
+6. Prepare a Question bank across all subjects with a full solution.
+7. Ensure data accuracy.
+8. Increase efficiency
+9. User-friendliness and intuitive software system.
 
-- When you contribute, you agree to give a non-exclusive license to AdminLTE.IO to use that contribution in any context as we (AdminLTE.IO) see appropriate.
-- If you use content provided by another party, it must be appropriately licensed using an [open source](http://opensource.org/licenses) license.
-- Contributions are only accepted through Github pull requests.
-- Finally, contributed code must work in all supported browsers (see above for browser support).
+**Scope of Work**
+The intern needs to develop some incomplete features/capabilities in this software.
 
-### License
-AdminLTE is an open source project by [AdminLTE.IO](https://adminlte.io) that is licensed under [MIT](http://opensource.org/licenses/MIT). AdminLTE.IO
-reserves the right to change the license of future releases. Wondering what you can or can't do? View the [license guide](https://adminlte.io/docs/license).
+**Technologies involved:**
+1. Core PHP programming language
+2. XAMPP server installation
+3. MySQL database
+4. AWS
+5. Sublime Text Editor
 
-### Legacy Releases
-AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.io/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) section above.
+** Software Modules: **
+1.** Dashboard**
+   Total Questions
+   Total Active Questions
+   Add question
+   Add Question paper
+   View Question Paper
 
-### Change log
-**For the most recent change log, visit the [releases page](https://github.com/ColorlibHQ/AdminLTE/releases) or the [changelog file](https://github.com/ColorlibHQ/AdminLTE/blob/master/changelog.md).** We will add detailed release notes to each new release. 
+2. **Question Bank Module**
+    Add question
+    Question list
 
-### Image Credits
-- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-- [Graphicsfuel](http://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-- [Pickaface](http://pickaface.net/)
-- [Unsplash](https://unsplash.com/)
-- [Uifaces](http://uifaces.com/)
+3.** Question Paper Module**
+    1. Create a Question Paper with the below information
+        Question paper Name
+        Program name 
+        Course name
+        Semester
+        Institute name
+        Exam Date
+        Mark of each question
+        Total Marks
+        Exam Duration (In Hours)
+        Status
+        Select Questions for creating a new Question Paper
+    2. View the question paper
+    3. Update Question Paper
+    4. View Question Paper
+
+**Project: **
+Interns will have to refer to the below web application for the project:
+Software link: https://jhamobi.com/assessment/
+Login: admin@jhamobi.com 
+Password: Password01$
+
+Interns will have to study and understand the existing code of the below modules:
+**Dashboard**
+**Question Bank Module**
+
+Interns will have to design and develop a module for the Question Paper 
+1. Add new question paper
+2. Question paper listing
+3. View the question paper
+4. Update the question paper
+5. Question paper generation in pdf 
+
+1. **Add new question paper**
+    Design and develop a webpage with these input fields with below basic info
+    Question paper Name
+    Program name 
+    Course name
+    Semester
+    Institute name
+    Exam Date
+    Mark of each question
+    Total Marks
+    Exam Duration (In Hours)
+    Status
+    Question list for selected Program, Course and Semester. Users will select questions from these question lists as shown below
+2. **Question Paper List **
+3. **Update question paper**
+  Update institute Name
+  Update Exam date
+  Update Mark of Each Question
+  Total marks
+  Exam duration (in hours)
+  Status
+  Add/Remove questions
+
+4. View question paper
+
+5. Enlist each question of the question paper for reconfirmation
+Generate question paper in pdf format
+
+
+
+
